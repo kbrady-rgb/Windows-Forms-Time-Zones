@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.TimeZone.resources
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\bin\Debug\ControlsAndCompoundConditionBrady.exe.config
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\bin\Debug\ControlsAndCompoundConditionBrady.exe
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\bin\Debug\ControlsAndCompoundConditionBrady.pdb
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.exe
+C:\Users\Kabrina\Documents\C#\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\bin\Debug\ControlsAndCompoundConditionBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\bin\Debug\ControlsAndCompoundConditionBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\bin\Debug\ControlsAndCompoundConditionBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.TimeZone.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\ControlsAndCompoundConditionBrady\ControlsAndCompoundConditionBrady\obj\Debug\ControlsAndCompoundConditionBrady.pdb
